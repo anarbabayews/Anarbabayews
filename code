@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anar Babayev - Bio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; margin: 0; padding: 0; }
+    .container { max-width: 720px; margin: auto; padding: 40px 20px; background: white; margin-top: 40px; box-shadow: 0 0 20px rgba(0,0,0,0.05); border-radius: 10px; }
+    h1 { color: #111827; font-size: 28px; margin-bottom: 10px; }
+    h2 { color: #374151; font-size: 20px; margin-top: 30px; }
+    p, li { font-size: 16px; line-height: 1.6; color: #333; }
+    ul { padding-left: 20px; }
+    a { color: #2563eb; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Anar Babayev</h1>
+    <p><strong>Doğum tarixi:</strong> 16 avqust 2006<br />
+       <strong>Boy:</strong> 180 sm &nbsp;&nbsp; <strong>Çəki:</strong> 68 kq<br />
+       <strong>Təhsil:</strong> 281 nömrəli məktəb, Hövsan / Modellik Akademiyası</p><h2>Haqqında</h2>
+<p>Anar Babayev gənc bir Azərbaycanlı model və sosial media influencerdir. O, 2023-cü ildən modellik sahəsində fəaliyyət göstərir. Canlı yayım zamanı Ekran Media rəhbəri tərəfindən kəşf edildikdən sonra modelliyə başlamış və qısa müddət ərzində yerli və xarici brendlərlə əməkdaşlıq etmişdir.</p>
+
+<h2>Əməkdaşlıqlar</h2>
+<ul>
+  <li><strong>Yerli:</strong> Guliyews Wear, Cool Baku, Ayaqyalın, Temubaku</li>
+  <li><strong>Xarici:</strong> Trendyol və digər onlayn moda platformaları</li>
+</ul>
+
+<h2>Maraqları və Fəaliyyətləri</h2>
+<p>Məktəb illərində MMA və Cüdo ilə məşğul olmuşdur. Sosial mediada tanınmaq, səhnədə çıxış etmək və izləyici auditoriyası ilə əlaqə qurmaq onun əsas motivasiyası olmuşdur.</p>
+
+<h2>Portfolio və Linklər</h2>
+<ul>
+  <li><a href="https://instagram.com/anarbabayews" target="_blank">📸 Instagram</a></li>
+  <li><a href="https://tiktok.com/@anarbabayews" target="_blank">🎥 TikTok</a></li>
+  <li><a href="https://drive.google.com/file/d/1-3x0CcRwFtdWHoMFpnjcNQ2KI9eTO9GN/view" target="_blank">📄 Portfolio (PDF)</a></li>
+  <li><a href="https://en.everybodywiki.com/Anar_Babayev" target="_blank">🌍 EverybodyWiki səhifəsi</a></li>
+</ul>
+
+<h2>Əlaqə</h2>
+<p><strong>Email:</strong> anarbabayev1816@gmail.com<br />
+   <strong>Telefon:</strong> 055 952 51 12</p>
+
+  </div>
+</body>
+</html>
